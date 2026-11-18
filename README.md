@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_icon.svg" alt="CareLoop logo" width="160" />
+</p>
+
 # CareLoop application
 
 CareLoop is an offline, synthetic-only prototype for making a screening
