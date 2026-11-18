@@ -9,3 +9,9 @@ web/*.tsbuildinfo
 web/vite.config.js
 web/vite.config.d.ts
 NUL
+
+# Internal working documents (kept locally, not for the repository)
+AUDIT_REPORT.md
+docs/SUBMISSION_ALIGNMENT.md
+docs/CONSOLIDATION_REPORT.md
+docs/CHANGELOG_FIXES.md

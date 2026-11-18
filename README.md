@@ -125,5 +125,4 @@ them in this revision. The Dockerfile defaults to loopback binding.
 * [Assumption registry](docs/ASSUMPTION_REGISTRY.md)
 * [Security notes](SECURITY_NOTES.md)
 * [Regulatory-readiness checklist](docs/REGULATORY_READINESS.md)
-* [Submission alignment notes](docs/SUBMISSION_ALIGNMENT.md)
 * [AI-use disclosure draft](docs/AI_USE_DISCLOSURE.md)

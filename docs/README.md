@@ -35,7 +35,6 @@ npm run build
 | [CHANGELOG.md](CHANGELOG.md) | Dated history. |
 | [ASSUMPTION_REGISTRY.md](ASSUMPTION_REGISTRY.md) | Generated registry from `registry.csv`. |
 | [REGULATORY_READINESS.md](REGULATORY_READINESS.md) | Informational counsel-verification checklist. |
-| [SUBMISSION_ALIGNMENT.md](SUBMISSION_ALIGNMENT.md) | Human alignment notes for external materials. |
 | [AI_USE_DISCLOSURE.md](AI_USE_DISCLOSURE.md) | Draft disclosure for human review. |
 
 The root also contains [SECURITY_NOTES.md](../SECURITY_NOTES.md),
