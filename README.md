@@ -4,6 +4,21 @@
 
 # CareLoop application
 
+<p align="center">
+  <img alt="status: prototype" src="https://img.shields.io/badge/status-prototype-orange" />
+  <img alt="python 3.11.9" src="https://img.shields.io/badge/python-3.11.9-blue" />
+  <img alt="dependencies: 0 (stdlib)" src="https://img.shields.io/badge/dependencies-0%20%28stdlib%29-brightgreen" />
+  <img alt="tests: 52 passed" src="https://img.shields.io/badge/tests-52%20passed-brightgreen" />
+  <img alt="data: synthetic only" src="https://img.shields.io/badge/data-synthetic%20only-purple" />
+  <img alt="license: undecided" src="https://img.shields.io/badge/license-undecided-lightgrey" />
+</p>
+
+<p align="center">
+  <a href="docs/README.md"><img alt="Docs" src="https://img.shields.io/badge/DOCS-docs%2FREADME.md-blue" /></a>
+  <a href="web/"><img alt="Web client" src="https://img.shields.io/badge/WEB-React%2019%20%C2%B7%20TypeScript%20%C2%B7%20Vite-informational" /></a>
+  <a href="https://github.com/wijaywi"><img alt="Built by wijaywi" src="https://img.shields.io/badge/BUILT%20BY-wijaywi-blueviolet" /></a>
+</p>
+
 CareLoop is an offline, synthetic-only prototype for making a screening
 follow-up case visible, owned, escalated, handed off, evidenced, and closed.
 It contains a SQLite-backed projection over one canonical E1-E9 transport
