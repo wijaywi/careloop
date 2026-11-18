@@ -1,0 +1,13 @@
+.git
+.gitignore
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+web/node_modules
+web/dist
+web/*.tsbuildinfo
+out
+zz_audit_tmp
+*.sqlite3
+*.sqlite3-*
+AUDIT_REPORT.md

@@ -1,0 +1,19 @@
+{
+  "status": "assumption",
+  "source": "not yet found / assumption",
+  "notes": "Operational coordination policy; not a clinical guideline.",
+  "primary_screening_type": "breast_cancer_abnormal_mammogram",
+  "primary_screening_label": "Abnormal mammogram requiring diagnostic imaging or biopsy",
+  "stages": [
+    {"stage": 1, "expected_event": "E2", "urgent_hours": 24, "routine_hours": 168, "owner": "result issuer", "escalate_to": "program coordinator"},
+    {"stage": 2, "expected_event": "E3", "urgent_hours": 48, "routine_hours": 336, "owner": "navigator", "escalate_to": "change channel, then community health worker or visit"},
+    {"stage": 3, "expected_event": "E4", "urgent_hours": 168, "routine_hours": 720, "owner": "responsible clinician", "escalate_to": "senior clinician or coordinator"},
+    {"stage": 4, "expected_event": "E5", "urgent_hours": 24, "routine_hours": 48, "owner": "consult recipient", "escalate_to": "alternative recipient"},
+    {"stage": 5, "expected_event": "E5", "urgent_hours": 48, "routine_hours": 336, "owner": "responsible clinician", "escalate_to": "program coordinator"},
+    {"stage": 6, "expected_event": "E6", "urgent_hours": 24, "routine_hours": 48, "owner": "sender until acceptance", "escalate_to": "coordinator, then re-routing"},
+    {"stage": 7, "expected_event": "E6", "urgent_hours": 72, "routine_hours": 336, "owner": "receiving provider", "escalate_to": "program coordinator"},
+    {"stage": 8, "expected_event": "E7", "urgent_hours": 24, "routine_hours": 72, "owner": "receiving provider", "escalate_to": "navigator reschedule"},
+    {"stage": 9, "expected_event": "E8", "urgent_hours": 336, "routine_hours": 720, "owner": "responsible clinician", "escalate_to": "breast-pathway clinical team or program coordinator"},
+    {"stage": 10, "expected_event": "E9", "urgent_hours": 168, "routine_hours": 336, "owner": "responsible clinician", "escalate_to": "program coordinator"}
+  ]
+}

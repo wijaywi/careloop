@@ -1,0 +1,2 @@
+# Intentionally empty: the simulator has no third-party runtime dependencies.
+# Python runtime is pinned in .python-version.
