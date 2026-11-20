@@ -311,6 +311,7 @@ function App() {
           <span className="eyebrow lower">PROGRAM</span>
           <button className={`nav-item ${page === 'governance' ? 'active' : ''}`} onClick={() => setPage('governance')}><span className="nav-icon">⌘</span><span className="nav-label">Governance</span></button>
         </nav>
+        <div className="sidebar-credit">-Wiwin Wijaya, Nov 2026-</div>
         <div className="sidebar-bottom"><div className="offline"><span className="live-dot"/> {apiOnline ? 'API connected' : 'Local fallback mode'} <span className="info" title="Synthetic data only; the UI falls back safely when the API is unavailable">i</span></div><div className="profile"><div className="avatar">AM</div><div><strong>Alex Morgan</strong><small>Care navigator</small></div><button className="more" onClick={() => setMenu(menu === 'profile' ? 'none' : 'profile')}>•••</button>
           {menu === 'profile' && <div className="popover">
             <header>SIGNED-IN IDENTITY</header>
